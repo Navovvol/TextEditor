@@ -1,0 +1,5 @@
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.dll
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.csprojResolveAssemblyReference.cache
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.dll
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor.BL\obj\Debug\TextEditor.BL.pdb

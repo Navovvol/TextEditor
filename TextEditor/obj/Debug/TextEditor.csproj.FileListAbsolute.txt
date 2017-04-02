@@ -1,0 +1,11 @@
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor\obj\Debug\TextEditor.MainForm.resources
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor\bin\Debug\TextEditor.BL.dll
+F:\YANDEX_DISK\VSProjects\TextEditor\TextEditor\bin\Debug\TextEditor.BL.pdb
